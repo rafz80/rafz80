@@ -1,6 +1,6 @@
-Welcome to my Github!
+<h1>Raphael Ramos</h1>
 
-I'm a software engineer with many years of experience, always looking for new knowledges, networking and friendship. I love to offer my code to make the people's quality life better.
+Hi! I'm a software engineer with many years of experience, always looking for new knowledges, networking and friendship. I love to offer my code to make the people's quality life better.
 
 - I like to listen many kinds of music, specially jazz 🎷
 - I play bass 🎸 , keyboard 🎹 , and eventually I compose some song 🎵
