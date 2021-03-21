@@ -22,6 +22,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+
+
 <hr />
 
 Actually, my main languages:
@@ -59,5 +61,7 @@ OS:
 <img alt="Windows 10" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" /><img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" /><img alt="IOS" src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white">
 
 <hr />
-![rafz80 Repository's Stats](https://github-readme-stats.vercel.app/api?username=rafz80&show_icons=true)
+
+
+![rafz80 Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=rafz80&theme=blue-green)
 
