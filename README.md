@@ -1,4 +1,6 @@
-### Hi there 👋
+Welcome to my Github!
+
+
 
 <!--
 **rafz80/rafz80** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,4 +17,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![example workflow](https://github.com/github/docs/actions/workflows/main.yml/badge.svg)
+
+[![forthebadge python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
