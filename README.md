@@ -2,12 +2,12 @@
 
 Hi! I'm a software engineer with many years of experience, always looking for new knowledges, networking and friendship. I love to offer my code to make the people's life quality better.
 
+<!--
 - I like to listen many kinds of music, specially jazz 🎷
 - I play bass 🎸 , keyboard 🎹 , and eventually I compose some song 🎵
 - I like to watch NBA 🏀
 - I like to travel ✈
 
-<!--
 **rafz80/rafz80** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
