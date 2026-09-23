@@ -24,9 +24,6 @@ Here are some ideas to get you started:
 
 
 
-![rafz80 Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=rafz80&theme=blue-green)
-
-
 <hr />
 
 Actually, my main languages:
